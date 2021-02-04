@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewer" content="width=device-width" intial-scale="1.0">
+<meta charset="UTF-8">
+<title>Registration</title>
+<link rel="stylesheet" href="styregis.css">
+<center>
+<body>
+<form onsubmit="return validasi(); valid();">
+<h1>Registration Account</h1>
+<hr>
+<label for="mail">Email </label><br>
+<input type="text" placeholder="Masukkan Email"
+name="mail" required><br>
+<label for="namae">Nama User </label><br>
+<input type="text" placeholder="Masukkan Nama" 
+name="namae" required></br>
+<label for="passw">Password </label><br>
+<input type="password" placeholder="Masukkan Password"
+name="passw" id="pasudo" required><br>
+<label for="repeat">Ulangi Password</label><br>
+<input type="password" placeholder="Masukkan Password"
+name="repeat" id="repet" required><br>
+<span id="meseg"></span><br>
+<label for="jk">Jenis Kelamin: </label><br>
+<input type="radio" name="gender" value="Laki-Laki">Laki-Laki&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="radio" name="gender" value="Perempuan">Perempuan<br>
+<br><hr>
+<input type="checkbox" name="snk">Saya telah membaca seluruh <a href="#">
+syarat dan kebijakan privasi</a><br>
+<div class="sub">
+<button type="submit">Daftar</button>
+</div>
+<div class="ca ci">
+<p>Sudah Punya Akun?<a href="../index.html">Log-in</a></p>
+</div>
+</form>
+</center>
+</body>
+</head>
+</html>
