@@ -1,5 +1,5 @@
-# E-Office Mobile
-E-Office Mobile adalah aplikasi yang dikembangkan untuk mewujudkan sistem absen karyawan yang mudah, permintaan izin cuti yang bisa diakses dimana saja dan kapan saja. Para kariawan juga dapat menandai setiap tugas mingguan dan mengunggah perkembangannya, sehingga perusahaan dapat dengan mudah mengawasi karyawan sekaligus projek yang dikembangkan.
+# Officia Mobile
+Officia Mobile adalah aplikasi yang dikembangkan untuk mewujudkan sistem absen karyawan yang mudah, permintaan izin cuti yang bisa diakses dimana saja dan kapan saja. Para kariawan juga dapat menandai setiap tugas mingguan dan mengunggah perkembangannya, sehingga perusahaan dapat dengan mudah mengawasi karyawan sekaligus projek yang dikembangkan.
 <br><br>Anda bisa mengaksesnya melalui<br>https://xzoom117.github.io/E-Office/
 
 ## Login
